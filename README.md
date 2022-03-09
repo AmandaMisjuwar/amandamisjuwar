@@ -1,19 +1,9 @@
-### Welcome! 👋
+# Hi, I'm Amanda! 👋
 
-<!--
-**AmandaMisjuwar/amandamisjuwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![readme_image](https://user-images.githubusercontent.com/37950626/157373181-e469dd5a-8980-4fc7-8ced-fa4629655e72.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Community Fridge KW as a UW Blueprint developer!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🎓 Computer Science @ University of Waterloo 2023
+
+🌱 Working on [Community Fridge KW](https://github.com/uwblueprint/community-fridge-kw) as a UW Blueprint developer
 
 💡 amandamisjuwar.me
