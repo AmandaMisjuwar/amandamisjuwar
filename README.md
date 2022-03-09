@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 University of Waterloo 2023
+🎓 Computer Science @ University of Waterloo 2023
 
 💡 amandamisjuwar.me
