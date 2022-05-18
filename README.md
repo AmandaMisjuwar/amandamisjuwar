@@ -2,7 +2,7 @@
 
 🎓 Computer Science @ University of Waterloo 2023
 
-🏢 Currently a SWE Intern @ Microsoft working on .NET Core Infrastructure
+🏢 Currently a SWE Intern @ Microsoft working on .NET Infrastructure
 
 🌱 Working on [Community Fridge KW](https://github.com/uwblueprint/community-fridge-kw) as a UW Blueprint developer
 
