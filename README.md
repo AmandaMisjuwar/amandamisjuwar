@@ -2,9 +2,9 @@
 
 🎓 Computer Science @ University of Waterloo 2023
 
-🏢 Currently a SWE Intern @ Microsoft working on .NET Infrastructure
+🏢 Currently a SWE Intern @ Microsoft
 
-🌱 Working on [Community Fridge KW](https://github.com/uwblueprint/community-fridge-kw) as a UW Blueprint developer
+🌱 Working on [Focus on Nature](https://github.com/uwblueprint/focus-on-nature) as a UW Blueprint project lead
 
 💡 amandamisjuwar.me
 
