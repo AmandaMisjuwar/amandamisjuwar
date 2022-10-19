@@ -2,8 +2,6 @@
 
 🎓 Computer Science @ University of Waterloo 2023
 
-🌱 Working on [Focus on Nature](https://github.com/uwblueprint/focus-on-nature) as a UW Blueprint project lead
-
 💡 amandamisjuwar.me
 
 
